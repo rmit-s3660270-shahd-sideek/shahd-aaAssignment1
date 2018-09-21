@@ -1,0 +1,3 @@
+USAGE: PerformanceAnalysis [data structure] [input file]
+  data structure [linkedlist, sortedlinkedlist, bst, hash]
+EXAMPLE: PerformanceAnalysis hash random.txt
